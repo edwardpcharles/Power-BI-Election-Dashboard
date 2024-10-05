@@ -1,0 +1,5 @@
+Republican Red: #de0100
+Republican Light Red: #FCA7A6
+Democratic Blue: #00AEF3
+Democratic Light Blue: #D4F1FC
+"data:image/svg+xml;utf81,"
